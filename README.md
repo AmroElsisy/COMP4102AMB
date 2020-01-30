@@ -1,8 +1,10 @@
-# COMP4102
+# COMP4102 AMB
 Title: Sudoko Solver
 
 Group Name: AMB
+
 Group Members: 
+
 Amro Elsisy - 100917564
 
 Menna Mohsen -
