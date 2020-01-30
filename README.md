@@ -12,7 +12,13 @@ Menna Mohsen -
 Bill Creber - 
 
 
-Summary: Summarize your project in no more than 2-3 sentences. De- scribe what you plan to do and what vision problem you will be working on. Check final project ideas file in cuLearn for suggested project ideas. You can choose any idea other than these examples.
+We will be working on the sudoko solver project. We are planning to work on a sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
+http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
+
+https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
+https://en.wikipedia.org/wiki/Connected-component_labeling
+https://en.wikipedia.org/wiki/Hough_transform
+
 
 Background: If your ideas coming from existing research you should refer to the publications and describe what you are doing differently.
 
