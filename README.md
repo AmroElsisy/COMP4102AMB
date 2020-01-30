@@ -1,9 +1,12 @@
 # COMP4102
 Title: Sudoko Solver
+
 Group Name: AMB
-Group Members: Amro Elsisy - 100917564
-               Menna Mohsen -
-               Bill Creber - 
+
+Group Members: 
+Amro Elsisy - 100917564
+Menna Mohsen -
+Bill Creber - 
 
 
 Summary: Summarize your project in no more than 2-3 sentences. De- scribe what you plan to do and what vision problem you will be working on. Check final project ideas file in cuLearn for suggested project ideas. You can choose any idea other than these examples.
