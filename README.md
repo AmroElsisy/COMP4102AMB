@@ -2,10 +2,11 @@
 Title: Sudoko Solver
 
 Group Name: AMB
-
 Group Members: 
 Amro Elsisy - 100917564
+
 Menna Mohsen -
+
 Bill Creber - 
 
 
