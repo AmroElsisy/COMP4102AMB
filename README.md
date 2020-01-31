@@ -21,18 +21,16 @@ A few of the resources that our team have looked at are:
 * https://en.wikipedia.org/wiki/Hough_transform
 
 ## The Challenge:
-We shall be taking either a real-time snapshot via a phone camera or a scanned image of a potential sudoku puzzle page. We will be starting with the default 9x9 puzzle but if we have time, there is potential for solving the more elaborate variants of the much loved game like [Overlapping Grids](https://en.wikipedia.org/wiki/Glossary_of_Sudoku#Sudoku_variants), [Killer Sudoku](https://en.wikipedia.org/wiki/Killer_sudoku), or [Jigsaw](https://en.wikipedia.org/wiki/Nonomino).
-
+We shall be taking either a real-time snapshot via a phone camera or a scanned image of a potential sudoku puzzle page.
 OpenCV has edge detection that we could use to find the game board, though we would have to determine the location of the discrete input boxes from the edges as well as the different line thickness for the unique groups. This is doubly important for variants where the 1-N character groups are not always a uniform box (ie. Jigsaw).
 
 We will have to interface with an OCR (Optical Character Recognition) engine like [Tesseract](https://opensource.google/projects/tesseract) to determine which unique character is where on the game grid (for both answers and clues) to then be passed to the solving algorithm(s).
 
 ## Goals and Deliverables: 
-Our main goal is start with the default 9x9
+Our main goal is start with the default 9x9 puzzle and that is going to be our main focus when implementing the project. If we have time we will aim to solve the more elaborate variants of the much loved game like [Overlapping Grids](https://en.wikipedia.org/wiki/Glossary_of_Sudoku#Sudoku_variants), [Killer Sudoku](https://en.wikipedia.org/wiki/Killer_sudoku), or [Jigsaw](https://en.wikipedia.org/wiki/Nonomino).
 
 
 # Default README Below
-
 Background: If your ideas coming from existing research you should refer to the publications and describe what you are doing differently.
 
 Notes: If your project involves taking advantage of computational speedups available on your iOS device - such as box filters, inverse composition in the LK algorithm, NEON intrinsics, OpenGL ES, Accelerate Framework, binary descriptors such as FAST and BRIEF, etc. - describe their application and why they are necessary in more detail. If your project involves something around using your device in a mobile fashion - for example virtually rendering an object in your room - then describe what components of your solution are unique to a mobile device (the high-speed camera, GPS, IMU, Gyro?).
