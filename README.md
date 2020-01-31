@@ -9,18 +9,27 @@ Amro Elsisy - 100917564
 
 Menna Mohsen - 101007934
 
-Bill Creber - 
+Bill Creber - 100884250
 
 
 Our team will be working on the sudoko solver project. We are planning to work with the sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
 
 A few of the resources that our team have looked at are: 
-http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
+* http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
+* https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
+* https://en.wikipedia.org/wiki/Connected-component_labeling
+* https://en.wikipedia.org/wiki/Hough_transform
 
-https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
-https://en.wikipedia.org/wiki/Connected-component_labeling
-https://en.wikipedia.org/wiki/Hough_transform
+## The Challenge:
+We shall be taking either a real-time snapshot via a phone camera or a scanned image of a potential sudoku puzzle page. We will be starting with the default 9x9 puzzle but if we have time, there is potential for solving the more elaborate variants of the much loved game like [Overlapping Grids](https://en.wikipedia.org/wiki/Glossary_of_Sudoku#Sudoku_variants), [Killer Sudoku](https://en.wikipedia.org/wiki/Killer_sudoku), or [Jigsaw](https://en.wikipedia.org/wiki/Nonomino).
 
+OpenCV has edge detection that we could use to find the game board, though we would have to determine the location of the discrete input boxes from the edges as well as the different line thickness for the unique groups. This is doubly important for variants where the 1-N character groups are not always a uniform box (ie. Jigsaw).
+
+We will have to interface with an OCR (Optical Character Recognition) engine like [Tesseract](https://opensource.google/projects/tesseract) to determine which unique character is where on the game grid (for both answers and clues) to then be passed to the solving algorithm(s).
+
+
+
+# Default README Below
 
 Background: If your ideas coming from existing research you should refer to the publications and describe what you are doing differently.
 
