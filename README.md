@@ -1,5 +1,5 @@
 # COMP4102 AMB
-Title: Sudoko Solver
+Title: Sudoko Solver Proposal
 
 Group Name: AMB
 
@@ -7,12 +7,14 @@ Group Members:
 
 Amro Elsisy - 100917564
 
-Menna Mohsen -
+Menna Mohsen - 101007934
 
 Bill Creber - 
 
 
-We will be working on the sudoko solver project. We are planning to work on a sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
+Our team will be working on the sudoko solver project. We are planning to work with the sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
+
+A few of the resources that our team have looked at are: 
 http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
 
 https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
