@@ -27,6 +27,8 @@ OpenCV has edge detection that we could use to find the game board, though we wo
 
 We will have to interface with an OCR (Optical Character Recognition) engine like [Tesseract](https://opensource.google/projects/tesseract) to determine which unique character is where on the game grid (for both answers and clues) to then be passed to the solving algorithm(s).
 
+## Goals and Deliverables: 
+Our main goal is start with the default 9x9
 
 
 # Default README Below
