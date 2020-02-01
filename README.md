@@ -11,18 +11,8 @@ Menna Mohsen - 101007934
 
 Bill Creber - 100884250
 
-
+## Introduction:
 Our team will be working on the sudoko solver project. We are planning to work with the sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
-
-A few of the resources that our team have looked at are: 
-* http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
-* https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
-* https://en.wikipedia.org/wiki/Connected-component_labeling
-* https://en.wikipedia.org/wiki/Hough_transform
-* http://www.robots.ox.ac.uk/%7Evgg/presentations/bmvc97/criminispaper/
-* https://en.wikipedia.org/wiki/Optical_character_recognition
-* https://en.wikipedia.org/wiki/Pattern_recognition
-* https://en.wikipedia.org/wiki/Artificial_neural_network
 
 ## The Challenge:
 We shall be taking either a real-time snapshot via a phone camera or a scanned image of a potential sudoku puzzle page.
@@ -51,3 +41,12 @@ From February 1st till March 31st, we would have around 8 weeks to finish our pr
  * 8: Implement the sudoko solver algorithm on the extracted puzzles and get everything ready for our demo.
 
 
+A few of the resources that our team have looked at are: 
+* http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
+* https://en.wikipedia.org/wiki/Thresholding_%28image_processing%29
+* https://en.wikipedia.org/wiki/Connected-component_labeling
+* https://en.wikipedia.org/wiki/Hough_transform
+* http://www.robots.ox.ac.uk/%7Evgg/presentations/bmvc97/criminispaper/
+* https://en.wikipedia.org/wiki/Optical_character_recognition
+* https://en.wikipedia.org/wiki/Pattern_recognition
+* https://en.wikipedia.org/wiki/Artificial_neural_network
