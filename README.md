@@ -29,7 +29,7 @@ The project should be able to outcome a recognizable puzzle with the unique char
 
 ## Schedule:
 From February 1st till March 31st, we would have around 8 weeks to finish our project.
- # Weeks:
+ ### Weeks:
  * 1 and 2: We would be working on the sudoko solver algorithm.
  
  * 3 and 4: Implement thresholding techniques, blob extraction algorithms and Hough transform algorithms in OpenCV on images to try and detect the puzzle's edges.
