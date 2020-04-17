@@ -9,7 +9,7 @@ Amro Elsisy - 100917564
 
 Menna Mohsen - 101007934
 
-Bill Creber - 100884250
+Sanjida Sanwa - 100964381
 
 ## Introduction:
 Our team will be working on the sudoko solver project. We are planning to work with the sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
