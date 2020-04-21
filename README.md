@@ -9,7 +9,7 @@ Amro Elsisy - 100917564
 
 Menna Mohsen - 101007934
 
-Sanjida Sanwa - 100964381
+Sanjida Sanwar - 100964381
 
 ## Introduction:
 Our team will be working on the sudoko solver project. We are planning to work with the sudoko solver algorithm and implement it on pictures captured from sudoko puzzles printed on paper. 
@@ -40,6 +40,16 @@ From February 1st till March 31st, we would have around 8 weeks to finish our pr
  
  * 8: Implement the sudoko solver algorithm on the extracted puzzles and get everything ready for our demo.
 
+## Dependencies:
+Numpy
+Pytesseract-eng
+Scikit-image
+Imutils
+
+## Command to Run: 
+The command to run the software is: ./sudokuImageSolver.py 
+
+Video of the code running is included at the end of the presentation (7:46)
 
 A few of the resources that our team have looked at are: 
 * http://sudokugrab.blogspot.com/2009/07/how-does-it-all-work.html
