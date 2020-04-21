@@ -2,6 +2,7 @@
 
 """
 Helper file to extract the sudoku puzzle from an image using cv2 and skimage
+Retrieved from: https://github.com/fzy1995/SudokuImageSolver
 """
 
 import cv2
