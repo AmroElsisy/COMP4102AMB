@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Retrieved from: https://github.com/KleinSamuel/sudoku-solver
+"""
 import sys
 '''
 # strings for example sudokus where .=0
