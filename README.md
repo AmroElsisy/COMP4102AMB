@@ -41,10 +41,10 @@ From February 1st till March 31st, we would have around 8 weeks to finish our pr
  * 8: Implement the sudoko solver algorithm on the extracted puzzles and get everything ready for our demo.
 
 ## Dependencies:
-Numpy
-Pytesseract-eng
-Scikit-image
-Imutils
+1. Numpy
+2. Pytesseract-eng
+3. Scikit-image
+4. Imutils
 
 ## Command to Run: 
 The command to run the software is: ./sudokuImageSolver.py 
