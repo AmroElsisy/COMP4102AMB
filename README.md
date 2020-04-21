@@ -42,7 +42,7 @@ From February 1st till March 31st, we would have around 8 weeks to finish our pr
 
 ## Dependencies:
 1. Numpy
-2. Pytesseract-eng
+2. Tesseract-eng
 3. Scikit-image
 4. Imutils
 
